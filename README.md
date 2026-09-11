@@ -119,9 +119,6 @@ The cleaned dataset was loaded into **PostgreSQL** for structured business analy
 
 The cleaned and analyzed data was visualized using an interactive **Power BI Customer Behavior Dashboard**.
 
-## Dashboard Preview
-
-![Customer Behavior Dashboard](assets/customer-behavior-dashboard.png)
 
 ### Dashboard KPIs
 
@@ -211,7 +208,7 @@ Use demographic and behavioral insights to develop targeted campaigns for high-r
 ## Step 1 — Clone the Repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone  https://github.com/SafaMansoor/Customer-behavior-analysis.git
 cd customer-shopping-behavior-analysis
 ```
 
