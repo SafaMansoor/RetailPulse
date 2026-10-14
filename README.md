@@ -1,4 +1,4 @@
-# 🛍️ Customer Shopping Behavior Analysis
+# 🛍️ RetailPulse: Retail Analytics & Consumer Insights
 ### End-to-End Data Analytics Project using Python, PostgreSQL, SQL & Power BI
 
 ## 📌 Project Overview
